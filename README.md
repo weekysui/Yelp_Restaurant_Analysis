@@ -7,7 +7,7 @@ Objective:
 - To do that, we must figure out the most profitable location of the 10 cities selected; how long to keep the restaurant running for, and last but not least, what cuisine to specialize in to attract the most customers.
 
 Business Questions:
-1. Cities vs Price Point:
+1. <strong>Cities vs Price Point:</strong> <br>
 Business question: Which city, of the chosen 10, has the highest price point for popular restaurants?
 
 2.	Hours of Operation vs Customer Rating
