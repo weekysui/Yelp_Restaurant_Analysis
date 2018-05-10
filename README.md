@@ -10,9 +10,14 @@ Business Questions:
 1. <strong>Cities vs Price Point:</strong> <br>
 Business question: Which city, of the chosen 10, has the highest price point for popular restaurants?
 
-2.	Hours of Operation vs Customer Rating
+2.	<strong>Hours of Operation vs Customer Rating: </strong> <br>
 Business question: How many hours of operation should you open your restaurant for?
 
-3.	Cuisine vs Customer Rating
+3.	<strong>Cuisine vs Customer Rating</strong> <br>
 Business question: What’s the most popular restaurant cuisine in these OC cities?
 
+Implementation: 
+- Used Python programming language, and Python Plotting Libary (Matplotlib). 
+- Used Yelp! Fusion API
+1. Set Environment <br>
+"""pip install yelpapi"""
